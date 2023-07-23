@@ -2,51 +2,57 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'msblendorio', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'michelesblendorio',
+    //twitter: 'arif_szn',
+    //mastodon: 'arifszn@mastodon.social',
+    //facebook: '',
+    //instagram: '',
+    //youtube: '', // example: 'pewdiepie'
+    //dribbble: '',
+    //behance: '',
+    //medium: 'arifszn',
+    //dev: 'arifszn',
+    //stackoverflow: '', // example: '1/jeff-atwood'
+    //skype: '',
+    //telegram: '',
+    //website: 'https://arifszn.com',
+    phone: '+39 328 6274658',
+    email: 'sblendoriomichele@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    //fileUrl:
+   <a href="https://msblendorio.github.io/Sblendorio_CV.pdf">My resume</a>
+    // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'R',
+    'DataViz',
+    'Machine Learning',
+    'NLP',
+    'LLM',
+    'Prompt Engineering',
+    'Generative AI',
+    'HTML',
+    'CSS',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Vue.js',
+    'Bootstrap',
+    'SQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Microsoft Power BI',
+    'Tableau',
+    'Microsoft Excel',
   ],
   experiences: [
     {
@@ -119,11 +125,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'emerald',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
