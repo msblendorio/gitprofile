@@ -29,9 +29,8 @@ const config = {
     email: 'sblendoriomichele@gmail.com',
   },
   resume: {
-    //fileUrl:
-   <a href="https://msblendorio.github.io/Sblendorio_CV.pdf">My resume</a>
-    // Empty fileUrl will hide the `Download Resume` button.
+     fileUrl:
+      'https://msblendorio.github.io/Sblendorio_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
