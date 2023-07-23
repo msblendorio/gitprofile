@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
      fileUrl:
-      'https://msblendorio.github.io/Sblendorio_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1S6hr4waJdK2iLI-9B2sQYtpxIUEHtnb2/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
