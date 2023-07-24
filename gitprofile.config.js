@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
      fileUrl:
-      'https://drive.google.com/file/d/1S6hr4waJdK2iLI-9B2sQYtpxIUEHtnb2/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/msblendorio/msblendorio.github.io/blob/fb8bd0715c1c5a782ca622d70997db804cfb1329/Sblendorio_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -41,6 +41,7 @@ const config = {
     'LLM',
     'Prompt Engineering',
     'Generative AI',
+    'Streamlit',
     'HTML',
     'CSS',
     'JavaScript',
