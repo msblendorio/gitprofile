@@ -109,7 +109,7 @@ const config = {
       title: 'Tableau public',
       description:
         'Can we predict a new pandemic?',
-      //imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg',
       link: 'https://public.tableau.com/app/profile/michele.sblendorio',
     },
   ],
