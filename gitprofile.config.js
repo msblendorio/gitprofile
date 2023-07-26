@@ -68,14 +68,14 @@ const config = {
     {
       company: 'Freelance',
       position: 'Data Scientist',
-      from: '2003',
+      from: 'Jan 2003',
       to: 'Present',
       //companyLink: 'https://example.com',
     },
     {
       company: 'Freelance',
       position: 'Python developer',
-      from: '2003',
+      from: 'Jan 2003',
       to: 'Present',
       //companyLink: 'https://example.com',
     },
@@ -96,7 +96,7 @@ const config = {
       to: '2022',
     },
     {
-      institution: 'Rome University "La Sapienza"',
+      institution: 'Rome University La Sapienza',
       degree: 'Bachelor's Degree',
       from: '1990',
       to: '1996',
