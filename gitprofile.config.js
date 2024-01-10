@@ -49,16 +49,30 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Epicode',
+      position: 'Teacher',
+      from: 'Dec 2023',
+      to: 'Present',
+      //companyLink: 'https://example.com',
+    },
+    {
+      company: 'MAC Formazione',
+      position: 'Teacher',
+      from: 'Nov 2023',
+      to: 'Present',
+      //companyLink: 'https://example.com',
+    },
+    {
       company: 'Freelance',
       position: 'Data Scientist',
-      from: 'Jan 2020',
+      from: 'Jan 2018',
       to: 'Present',
       //companyLink: 'https://example.com',
     },
     {
       company: 'Freelance',
       position: 'Python developer',
-      from: 'Jan 2003',
+      from: 'Jan 2008',
       to: 'Present',
       //companyLink: 'https://example.com',
     },
@@ -83,6 +97,12 @@ const config = {
       degree: 'Degree in Literature and Performing Arts',
       from: '1990',
       to: '1996',
+    },
+    {
+      institution: 'ITC Manzetti',
+      degree: 'High School Degree Programmer',
+      from: '1984',
+      to: '1990',
     },
   ],
 
